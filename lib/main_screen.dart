@@ -71,7 +71,7 @@ class _MainScreenState extends State<MainScreen> {
                   ),
                   child: Center(
                       child: Text(
-                    "Click ME !",
+                    "Click ME !!",
                     style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.bold,
